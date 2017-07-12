@@ -1,0 +1,20 @@
+Schools that are part of juvenile justice facility are very less. Only 8 schools are youth prisons out of total 1000 schools.
+
+Magnet schools are also less (0nly 52 out of 1000). Mostly, schools are less advanced.
+
+Interestingly, larger male students are enrolled to JJ schools than female students.
+
+Female and male enrollements are nearly same in magnet schools.
+
+As per our analysis , it seems that the white population has decreased considerably,whereas hispanic population increased too.
+
+Black , Asian ,American Indian and other races have remained in the same proportion
+
+
+
+Review expulsions (which refers to when students are kicked out of school permanently). Columns like SCH_DISCWODIS_EXPWOE_HI_M and TOT_DISCWODIS_EXPZT_F contain information on expulsions.
+Explore gender and race differences in SAT scores. Columns like SCH_SATACT_HI_M contain this information.
+Figure out the racial and gender breakdowns for different types of schools, such as magnet schools.
+Determine how many students are in gifted and talented programs, or advanced placement classes.
+Investigate how racial differences in enrollment change from preschool to high school.
+Explore school bullying. The SCH_HBDISCIPLINED_DIS_HI_M column contains some of this information.
